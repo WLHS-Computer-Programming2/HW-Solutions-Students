@@ -1,0 +1,3 @@
+In Python you can make dictionaries
+In Python you can multiply strings
+In Python there is a module for everything
